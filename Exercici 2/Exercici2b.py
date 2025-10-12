@@ -1,6 +1,6 @@
 #Declaració de variables
-x = input("Dis-me el número X: ")  # Convertir a entero
-y = input("Dis-me el número Y: ")  # Convertir a entero
+x = input("Dis-me el número X: ")
+y = input("Dis-me el número Y: ")
 
 #Contingut de las variables
 print(f'El valor de x és: {x}')
